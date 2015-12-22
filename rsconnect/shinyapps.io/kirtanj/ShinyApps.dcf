@@ -1,0 +1,9 @@
+name: ShinyApps
+account: kirtanj
+server: shinyapps.io
+appId: 74773
+bundleId: 336670
+url: https://kirtanj.shinyapps.io/ShinyApps
+when: 1450773770.09094
+asMultiple: FALSE
+asStatic: FALSE
